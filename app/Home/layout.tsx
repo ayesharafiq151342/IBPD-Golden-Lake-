@@ -16,13 +16,13 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <header className="p-4 bg-purple-600 text-white text-center">
-          Golden Lake ERP Solutions
+        IBPD
         </header>
 
         <main>{children}</main>
 
         <footer className="p-4 bg-gray-800 text-white text-center">
-          © 2024 Golden Lake
+          © 2025 IBPD
         </footer>
       </body>
     </html>
