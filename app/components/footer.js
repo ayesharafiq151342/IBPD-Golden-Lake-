@@ -7,7 +7,7 @@ import { ArrowRight ,Facebook, Instagram, Globe, MessageCircle } from "lucide-re
 import Link from 'next/link';  
 const Footer = () => {
   return (
-    <footer className=" mt-20 text-white ">
+    <footer className="  text-white ">
        <section className="grid grid-cols-1 md:grid-cols-2 h-[700px] text-white">
       {/* Left Section */}
       <div className="bg-darkblue flex flex-col justify-center px-10 md:px-20 lg:px-32 py-16">
