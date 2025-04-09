@@ -471,16 +471,13 @@ const Navbar = () => {
                     {[
                       {
                         name: "SAP FI-Co Program",
-                        link: "/courses/SAP_FI_Co_Program",
+                        link: "/course-syllabus/SAP_FI_Co_Program",
                       },
                       {
-                        name: "MS Excel & Power BI",
-                        link: "/courses/MS_Excel_&_Power_BI",
+                        name: "MS Excel & Power BI Program",
+                        link: "/course-syllabus/mastering-in-excel-financial-fmva-power-bi-program",
                       },
-                      {
-                        name: "Program",
-                        link: "/courses/Program",
-                      },
+                 
                     ].map((service, index) => (
                       <li key={index}>
                         <Link
